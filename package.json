@@ -1,0 +1,7 @@
+{
+  "name": "shixi",
+  "private": true,
+  "dependencies": {
+    "geolib": "^2.0.24"
+  }
+}

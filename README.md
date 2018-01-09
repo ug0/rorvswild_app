@@ -1,0 +1,1 @@
+[![Build Status](https://semaphoreci.com/api/v1/projects/e969ac6e-857f-4f25-a42c-dccbfbcf54f0/1699008/badge.svg)](https://semaphoreci.com/ug0-38/shixi)
